@@ -13,4 +13,4 @@ OCTOPUS was made possible via a grant from the <a href="https://www.ands.org.au"
 ## Reference
 Codilean, AT, H Munack, TJ Cohen, WM Saktura, A Gray, SM Mudd. 2018. <a href="https://doi.org/10.5194/essd-10-2123-2018">OCTOPUS: an open cosmogenic isotope and luminescence database</a>. <em>Earth System Science Data</em> 10, 2123–2139
 
-[<img src="profile/CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="right" />](http://EpicAustralia.org.au)
+[<img src="CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="right" />](http://EpicAustralia.org.au)
