@@ -1,6 +1,6 @@
 # OCTOPUS
 
-<img align="right" src="octopus.png" alt="OCTOPUS" width="100" style="margin-top: 20px">
+<img align="right" src="octopus.png" alt="OCTOPUS" width="100"">
 
 OCTOPUS is an OGC-compliant, web-enabled database that allow users to visualise, query, and download geochronological data along with associated geospatial (vector and raster) data layers.
 
